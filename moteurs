@@ -1,0 +1,54 @@
+let moteurs = [
+  {
+    name: "423b466f-86cc-4abc-835d-616057296c90",
+    efficacite: 1.6,
+  },
+  {
+    name: "f7e01bcf-af1b-4923-92dd-435e4d0cbb76",
+    efficacite: 1.8,
+  },
+  {
+    name: "a598fdb8-9e19-45b4-9996-3e0eb97126bc",
+    efficacite: 2.0,
+  },
+  {
+    name: "e8ef300d-2e26-4fe3-a0fa-8dca31515416",
+    efficacite: 2.2,
+  },
+  {
+    name: "001f9048-06e5-4db7-8513-dc2cb7524a49",
+    efficacite: 2.4,
+  },
+  {
+    name: "30f60257-9977-4087-a886-4901348cbf21",
+    efficacite: 2.6,
+  },
+  {
+    name: "aff031e7-8087-4e24-9806-14e353a319cb",
+    efficacite: 2.8,
+  },
+  {
+    name: "178e3cd3-e279-4813-a7e7-f48ae52e9cda",
+    efficacite: 3.0,
+  },
+  {
+    name: "f724bef2-7016-4a0a-af76-bb31d8a9e073",
+    efficacite: 3.2,
+  },
+  {
+    name: "a13b66b4-5853-4cf2-b5b5-6e34eba6f072",
+    efficacite: 3.4,
+  },
+  {
+    name: "b6b8fb59-f010-450b-a3c1-f2b619db9f41",
+    efficacite: 3.6,
+  },
+  {
+    name: "1b89f008-3494-450d-96cd-89b3c7b60649",
+    efficacite: 3.8,
+  },
+  {
+    name: "23cfdae3-f5f0-4a94-b313-c3105019f092",
+    efficacite: 4,
+  },
+];
